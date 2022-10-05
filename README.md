@@ -16,3 +16,7 @@ npm run serve
 ```
 npm run deploy
 ```
+
+# Reference:
+- Functions: https://firebase.google.com/docs/functions/get-started
+- API Gateway: https://cloud.google.com/api-gateway/docs/secure-traffic-console
